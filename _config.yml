@@ -52,6 +52,15 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
+  
+  As a computer science student with a passion for machine learning, I am constantly seeking to expand my knowledge and skills in this exciting field. With a strong background in mathematics, I bring a unique perspective to my work, and I am always eager to take on new challenges.
+
+  I have experience working with a variety of machine learning tools and techniques, including deep learning, natural language processing, and computer vision. I am also skilled in programming languages such as Python, Java, and C++, and I am comfortable working in both Linux and Windows environments.
+
+  In addition to my technical skills, I am a strong communicator and collaborator. I enjoy working with others to develop innovative solutions to complex problems, and I am always eager to learn from my peers and mentors.
+
+  Ultimately, my goal as a computer science student is to use my knowledge and skills to make a positive impact on the world through the power of machine learning. Whether working on research projects or building real-world applications, I am committed to applying my expertise to create solutions that are both innovative and impactful.
+  
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
